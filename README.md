@@ -1,5 +1,7 @@
 # Cyber Truck
 
+<img width="584" alt="Cyber Truck" src="https://github.com/YutingLi2001/Cyber-Truck/assets/90287593/36ea6874-eaa9-4770-af2f-8f82c477593a">
+
 ## Overview
 The project is an autonomous robot car driven by the STM32F103RB microcontroller board. The car is equipped with two infrared sensors that detect obstacles in the front-left and front-right. When an upcoming obstacle is detected, the car maneuvers itself to avoid the obstacle by turning in the opposite direction. If both ways are blocked, the car signals via a buzzer.
 
